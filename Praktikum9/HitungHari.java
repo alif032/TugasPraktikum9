@@ -6,7 +6,7 @@ package Praktikum9;
 
 /**
  *
- * @author iqbal
+ * @author LENOVO LOQ
  */
 public class HitungHari {
     private int tahun;
