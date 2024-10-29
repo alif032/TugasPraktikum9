@@ -6,7 +6,7 @@ package Praktikum9;
 
 /**
  *
- * @author iqbal
+ * @author LENOVO LOQ
  */
 import javax.swing.JOptionPane;
 
